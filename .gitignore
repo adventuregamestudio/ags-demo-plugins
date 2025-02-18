@@ -1,0 +1,7 @@
+# MSVC workspace files
+*.vcxproj.user
+
+# MSVC workspace and output directories
+/ags-empty-plugin/msvc/.build/
+/ags-empty-plugin/msvc/.temp/
+/ags-empty-plugin/msvc/.vs/
